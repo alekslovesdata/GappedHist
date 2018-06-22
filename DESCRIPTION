@@ -1,8 +1,10 @@
 Package: GappedHist
 Title: This package makes possibly gapped histograms.
 Version: 0.0.0.9000
-Authors@R: person("Aleksandra", "Taranov", email = "ataranov@ucdavis.edu", role = c("aut", "cre"))
-person("Tania", "Roy", email = "roy@ucdavis.edu", role = c("aut", "cre"))
+Authors@R: as.person(c(
+    "Aleksandra Taranov <ataranov@ucdavis.edu> [aut, cre]", 
+    "Tania Roy <roy@ucdavis.edu> [aut]"
+  ))
 Description: This package makes possibly gapped histograms.
 Depends: R (>= 3.5.0)
 License: MIT + file LICENSE
