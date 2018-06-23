@@ -1,8 +1,6 @@
 # GappedHist
 _______________________________________________
-# This R package was inspired by the work of Dr. Fushing Hsieh and Dr. Tania Roy on gapped histograms and analysis of histogram (ANOHT)
-# and developed by Aleksandra Taranov, M.S. student at UC Davis. The academic article it is based on is here: 
-#  https://arxiv.org/abs/1702.05879
+# This R package was inspired by the work of Dr. Fushing Hsieh and Dr. Tania Roy on gapped histograms and analysis of histogram (ANOHT) and developed by Aleksandra Taranov, M.S. student at UC Davis. The academic article it is based on is located here: https://arxiv.org/abs/1702.05879
 _______________________________________________
 # To install within Rstudio, open Rstudio and in it, run:
 
