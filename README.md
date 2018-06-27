@@ -4,14 +4,9 @@ This R package was inspired by the work of Dr. Fushing Hsieh and Dr. Tania Roy o
 _______________________________________________
 To install within Rstudio, open Rstudio and in it, run:
 
-<<<<<<< HEAD
 install.packages("devtools")
 
 devtools::install_github("taranov2007/GappedHist")
-=======
-# install.packages("devtools")
-# devtools::install_github("taranov2007/GappedHist")
->>>>>>> 1307431605d8d8c93d66aa2e15dc0700088b2d24
 _______________________________________________
 To test out the functions, run:
 
