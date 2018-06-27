@@ -11,10 +11,17 @@ _______________________________________________
 To test out the functions, run:
 
 library(GappedHist)
+
 X <- iris[,1:4]
+
 head(X)
+
  M3=histbyDESS(values=X[,3],epsilon=1,graph=TRUE);M3
+
 par(mfrow=c(1,3))
+
 cdffromtable(X[,3],M3$table)
+
 histfromtable(M3$table)
+
 plotDESS(X[,3],M3)
