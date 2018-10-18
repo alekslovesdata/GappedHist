@@ -6,7 +6,7 @@ To install within Rstudio, open Rstudio and in it, run:
 
 install.packages("devtools")
 
-devtools::install_github("taranov2007/GappedHist")
+devtools::install_github("alekslovesdata/GappedHist")
 _______________________________________________
 To test out the functions, run:
 
